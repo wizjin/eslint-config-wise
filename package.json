@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-wise",
+  "version": "0.1.0",
+  "description": "Eslint config for umi projects.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wizjin/eslint-config-wise.git"
+  },
+  "author": "wizjin <wizjin@icloud.com> (https://github.com/wizjin)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wizjin/eslint-config-wise/issues"
+  },
+  "homepage": "https://github.com/wizjin/eslint-config-wise#readme",
+  "dependencies": {
+	"eslint-config-airbnb-base": "^12.1.0"
+  },
+  "peerDependencies": {
+    "eslint-plugin-flowtype": "^2.46.3",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.7.0"
+  }
+}
