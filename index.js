@@ -1,5 +1,5 @@
 module.exports = {
-  "extends": "airbnb",
+  "extends": "airbnb-base",
   "rules": {
     "spaced-comment": ["error", "always", { "line": { "exceptions": ["-", "/"] } }],
     "no-unused-vars": ["error", { "vars": "all", "args": "after-used" }],
